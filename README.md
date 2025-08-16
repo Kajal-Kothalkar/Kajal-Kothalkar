@@ -25,7 +25,7 @@ UI/UX Designer Intern – Zidio Development (06/25 - 07/25)
 
 # 📂 Featured Projects
 
-$ Real-Time Currency Converter – Python GUI app (Tkinter + REST API) with input validation
+$ 🪙 Real-Time Currency Converter – Python GUI app (Tkinter + REST API) with input validation
 
 🍄 Mushroom Classification App – Streamlit ML app to classify mushrooms as edible/poisonous
 
@@ -33,7 +33,7 @@ $ Real-Time Currency Converter – Python GUI app (Tkinter + REST API) with inpu
 
 🎓 Zidio Learning Platform (UI/UX) – Designed interactive e-learning UI in Figma (dashboards, leaderboards, responsive layouts)
 
-🏠 Home Solution Web Development – Marketplace web app (HTML, CSS, MySQL) for household services like groceries, medical needs, plumbing, and repairs
+🏠 Home Solution Web Development – Marketplace web app (HTML, CSS, PHP, MySQL) for household services like groceries, medical needs, plumbing, and repairs
 
 📊 Power BI Dashboard for School Supplies – Interactive dashboard analyzing and visualizing school supply data
 
