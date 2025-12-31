@@ -1,21 +1,34 @@
 # 👋 Hi, I’m Kajal Rajesh Kothalkar
 
-🎯 Aspiring Software Testing | UI/UX Designer | Python Developer | Data Analytics Enthusiast
+🎯 Aspiring Web Developer | AI & Machine Learning Enthusiast 
 
-I am currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dr. D.Y. Patil Pratishthan’s College of Engineering, Kolhapur.
-With a strong foundation in data analysis, UI/UX design, and software testing, I enjoy solving real-world problems through technology, learning new tools, and building impactful projects.
+Aspiring Web Development, Data Science, and AI/ML professional with a B.Tech in Computer Science and Engineering (Data Science). Strong foundation in web technologies, Python programming, data analysis, and machine learning concepts, with hands-on experience through academic projects and internships. Familiar with building web applications, data preprocessing, model development, and evaluation, and interested in integrating intelligent, data-driven features into modern web systems. Eager to expand expertise in advanced AI technologies such as Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Quick learner with strong problem-solving ability, analytical thinking, and effective time management skills.
 
 # 🚀 Skills
 
-Languages & Frameworks: Python, C, C++, Java, Tkinter, Streamlit
+Programming Languages
+Python | Java | C/C++ | SQL | PHP
 
-Data & Analytics: Power BI, Tableau, Excel, Google Colab, Jupyter Notebook
+Web Development
+HTML | CSS | JavaScript | React.js | Node.js | Express.js | PHP | MySQL
 
-UI/UX & Tools: Figma, Jira, Git, GitHub
+Artificial Intelligence & Machine Learning
+Machine Learning Fundamentals | Supervised Learning | Classification Models (Random Forest) | Neural Networks | Feature Engineering | Model Evaluation |LLM | RAG |  Basic Generative AI Concepts
 
-Testing & Automation: Selenium
+Data Analysis & Visualization
+Pandas | NumPy | Power BI | Tableau | Excel | Google Colab
+
+Tools & Platforms
+Git | GitHub | Jira 
+
+Soft Skills
+Communication | Quick Learning | Teamwork | Presentation | Time Management
+
+
 
 # 💼 Internships
+
+Generative AI Intern - Google Cloud (SmartBridge) (09/25 - 10/25)
 
 Python Developer Intern – Anvistar ITS Pvt. Ltd (07/25 - 08/25)
 
@@ -29,13 +42,20 @@ UI/UX Designer Intern – Zidio Development (06/25 - 07/25)
 - 💳 [**Credit Card Fraud Detection**](https://github.com/Kajal-Kothalkar/CreditCard_Fraud_Detection) – Streamlit ML tool using Random Forest with 30+ input features  
 - 🎓 [**Zidio Learning Platform (UI/UX)**](https://github.com/Kajal-Kothalkar/UI-UX-Design-Learning-Platform) – Designed interactive e-learning UI in Figma (dashboards, leaderboards, responsive layouts)  
 - 🏠 [**Home Solution Web Development**](https://github.com/Kajal-Kothalkar/Home_Solutions) – Marketplace web app (HTML, CSS,MySQL) for household services like groceries, medical needs, plumbing, and repairs  
-- 📊 [**Power BI Dashboard for School Supplies**](https://github.com/Kajal-Kothalkar/Dashboard-School_Supplies) – Interactive dashboard analyzing and visualizing school supply data  
+- 📊 [**Power BI Dashboard for School Supplies**](https://github.com/Kajal-Kothalkar/Dashboard-School_Supplies) – Interactive dashboard analyzing and visualizing school supply data
+- [**SkyLIne CRM**] - Skyline CRM is a customer relationship management system designed to efficiently manage customer enquiries, follow-ups, and sales data through a centralized, database-driven web application.
 
 # 🎓 Certifications
 
 Python Programming – NPTEL
 
 Java Programming – Udemy
+
+HTML5 & CSS3 - Udemy
+
+SQL using MYSQL – Scaler Topics
+
+Advanced Excel-STP Computer Education
 
 Power BI Fundamentals – Learn More
 
