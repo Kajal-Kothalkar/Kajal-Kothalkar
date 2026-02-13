@@ -44,6 +44,7 @@ UI/UX Designer Intern – Zidio Development (06/25 - 07/25)
 - 🎓 [**Zidio Learning Platform (UI/UX)**](https://github.com/Kajal-Kothalkar/UI-UX-Design-Learning-Platform) – Designed interactive e-learning UI in Figma (dashboards, leaderboards, responsive layouts)  
 - 🏠 [**Home Solution Web Development**](https://github.com/Kajal-Kothalkar/Home_Solutions) – Marketplace web app (HTML, CSS,MySQL) for household services like groceries, medical needs, plumbing, and repairs  
 - 📊 [**Power BI Dashboard for School Supplies**](https://github.com/Kajal-Kothalkar/Dashboard-School_Supplies) – Interactive dashboard analyzing and visualizing school supply data
+  
 -🏢 [**SkyLine CRM**](https://github.com/Kajal-Kothalkar/Skyline_CRM) - Skyline CRM is a customer relationship management system designed to efficiently manage customer enquiries, follow-ups, and sales data through a centralized, database-driven web application.
 
 # 🎓 Certifications
