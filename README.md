@@ -36,14 +36,15 @@ Data Analysis Intern – Cognifyz Technologies (07/25 - 08/25)
 
 UI/UX Designer Intern – Zidio Development (06/25 - 07/25)
 
-## 📂 Featured Projects  
+## 📂 Featured Projects 
+- 🌐 [**Personal Portfolio Website**](https://github.com/Kajal-Kothalkar/Personal_Portfolio) - Built a responsive portfolio using React.js, Vite, and Tailwind CSS.
 - $$ [**Real-Time Currency Converter**](https://github.com/Kajal-Kothalkar/Currency_Converter) – Python GUI app (Tkinter + REST API) with input validation  
 - 🍄 [**Mushroom Classification App**](https://github.com/Kajal-Kothalkar/Mushroom_Classification) – Streamlit ML app to classify mushrooms as edible/poisonous  
 - 💳 [**Credit Card Fraud Detection**](https://github.com/Kajal-Kothalkar/CreditCard_Fraud_Detection) – Streamlit ML tool using Random Forest with 30+ input features  
 - 🎓 [**Zidio Learning Platform (UI/UX)**](https://github.com/Kajal-Kothalkar/UI-UX-Design-Learning-Platform) – Designed interactive e-learning UI in Figma (dashboards, leaderboards, responsive layouts)  
 - 🏠 [**Home Solution Web Development**](https://github.com/Kajal-Kothalkar/Home_Solutions) – Marketplace web app (HTML, CSS,MySQL) for household services like groceries, medical needs, plumbing, and repairs  
 - 📊 [**Power BI Dashboard for School Supplies**](https://github.com/Kajal-Kothalkar/Dashboard-School_Supplies) – Interactive dashboard analyzing and visualizing school supply data
-- [**SkyLIne CRM**] - Skyline CRM is a customer relationship management system designed to efficiently manage customer enquiries, follow-ups, and sales data through a centralized, database-driven web application.
+-🏢 [**SkyLine CRM**](https://github.com/Kajal-Kothalkar/Skyline_CRM) - Skyline CRM is a customer relationship management system designed to efficiently manage customer enquiries, follow-ups, and sales data through a centralized, database-driven web application.
 
 # 🎓 Certifications
 
@@ -68,6 +69,8 @@ Git and GitHub – LetsUpgrade
 # 📫 Contact Me
 
 📧 Email: kothalkarkajal@gmail.com
+
+ Portfolio:kajal-kothalkar.netlify.app/
 
 💼 LinkedIn: linkedin.com/in/kajal-kothalkar1507
 
