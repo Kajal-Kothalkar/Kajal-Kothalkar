@@ -70,7 +70,7 @@ Git and GitHub – LetsUpgrade
 
 📧 Email: kothalkarkajal@gmail.com
 
- Portfolio:kajal-kothalkar.netlify.app/
+🌐 Portfolio: kajal-kothalkar.netlify.app/
 
 💼 LinkedIn: linkedin.com/in/kajal-kothalkar1507
 
